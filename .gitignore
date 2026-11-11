@@ -1,0 +1,9 @@
+# Local secrets
+config.js
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
